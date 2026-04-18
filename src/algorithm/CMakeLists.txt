@@ -1,0 +1,17 @@
+# algorithm 模块：每个 demo 自成独立可执行文件
+
+add_executable(sort_demo sort_demo.cpp)
+add_executable(search_demo search_demo.cpp)
+add_executable(transform_demo transform_demo.cpp)
+add_executable(binary_search_demo binary_search_demo.cpp)
+add_executable(quicksort_demo quicksort_demo.cpp)
+add_executable(mergesort_demo mergesort_demo.cpp)
+add_executable(heap_demo heap_demo.cpp)
+add_executable(linked_list_demo linked_list_demo.cpp)
+add_executable(tree_demo tree_demo.cpp)
+add_executable(graph_demo graph_demo.cpp)
+add_executable(dp_demo dp_demo.cpp)
+add_executable(sliding_window_demo sliding_window_demo.cpp)
+add_executable(two_pointers_demo two_pointers_demo.cpp)
+add_executable(backtracking_demo backtracking_demo.cpp)
+add_executable(bit_manipulation_demo bit_manipulation_demo.cpp)

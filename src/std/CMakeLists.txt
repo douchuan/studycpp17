@@ -1,0 +1,16 @@
+# std 模块：每个 demo 自成独立可执行文件
+
+add_executable(string_demo string_demo.cpp)
+add_executable(vector_demo vector_demo.cpp)
+add_executable(optional_demo optional_demo.cpp)
+add_executable(map_demo map_demo.cpp)
+add_executable(set_demo set_demo.cpp)
+add_executable(smart_ptr_demo smart_ptr_demo.cpp)
+add_executable(tuple_demo tuple_demo.cpp)
+add_executable(array_demo array_demo.cpp)
+add_executable(iterator_demo iterator_demo.cpp)
+add_executable(chrono_demo chrono_demo.cpp)
+add_executable(stringstream_demo stringstream_demo.cpp)
+add_executable(function_demo function_demo.cpp)
+add_executable(exception_demo exception_demo.cpp)
+add_executable(fstream_demo fstream_demo.cpp)
